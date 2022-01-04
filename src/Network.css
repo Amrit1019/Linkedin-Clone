@@ -54,7 +54,7 @@
 
 .sidebar__list:hover{
     cursor: pointer;
-    background-color: lightgray;
+    background-color: lightgrey;
 }
 
 .sidebar__content{
@@ -93,7 +93,7 @@
 }
 
 .networks__heading>h1{
-    font-size: 15px;
+    font-size: 13px;
 }
 
 .networks__card{
@@ -108,7 +108,7 @@
         width: 100%;
         place-content: center;
         gap: 50px;
-        padding: 0px;
+        padding: 2px;
     }
 
     .network__sidebar{

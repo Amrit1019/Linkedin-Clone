@@ -33,9 +33,9 @@ function Navbar() {
                 <div className="avatar">
                     <Link to="/profile">
                     <IconButton>
-                        <Avatar src="./assets/Avatar.jpg"/>
+                        <Avatar src="./assets/me 1.jpg"/>
                     </IconButton>
-                    <p>Arpit</p>
+                    <p>Amritpreet Singh</p>
                     </Link>
                 </div>
             </div>

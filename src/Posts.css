@@ -31,7 +31,7 @@
      padding: 10px;
      width: 100%;
      display: flex;
-     color: #242424;
+     color: black;
      outline: none;
 }
 
@@ -49,17 +49,17 @@
 }
 
 .icon:hover{
-    background-color: lightgray;
+    background-color: lightgrey;
     cursor: pointer;
     color: black !important;
     border-radius: 5px;
 }
 
 .icon>p{
-    color: black;
+    color: rgb(0, 0, 0);
     font-weight: bolder;
 }
 
 .posts__feed{
-    margin-top: 50px;
+    margin-top: 20px;
 }

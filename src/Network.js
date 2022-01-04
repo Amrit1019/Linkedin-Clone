@@ -81,41 +81,41 @@ function Network() {
                         <diV className="networks__cards">
                         <Fade bottom>
                         <div className="networks__card">
-                            <People name="Zayn Malik"
-                            description="Android Developer | Mern Stack Developer"
+                            <People name="Hiren Mehta"
+                            description="Android Developer "
                             avatarSrc="./assets/zayn.jpg"
                             mutual="4"/>
-                            <People name="Lionel Messi"
-                            description="GOAT | Developer"
+                            <People name="Kartik Doonga"
+                            description="Digital Marketing Executive "
                             avatarSrc="./assets/avatar3.jpg"
                             mutual="100"/>
-                            <People name="Cilain Murphy"
-                            description="Head of Peaky Blinder"
+                            <People name="Ankit bhimani"
+                            description="SEO Executive"
                             avatarSrc="./assets/avatar5.jpg"
                             mutual="45"/>
-                            <People name="Clever Qazi"
+                            <People name="Codewithharry"
                             description="Python Developer"
                             avatarSrc="./assets/avatar6.jpg"
-                            mutual="988"/>
+                            mutual="98"/>
                         </div>
                         </Fade>
 
                         <Fade bottom>
                         <div className="networks__card">
-                            <People name="Cristiano Ronaldo"
-                            description="GOAT | Entereprenuer"
+                            <People name="Vansh Agarwal"
+                            description="SEO at i way digital"
                             avatarSrc="./assets/avatar4.jpg"
                             mutual="1"/>
                             <People name="John Jones"
-                            description="Flutter Developer | SEO Executive"
+                            description="Flutter Developer "
                             avatarSrc="./assets/avatar1.jpg"
                             mutual="100"/>
-                            <People name="Harry Styles"
-                            description="Member of One Direction | Digital Marketer"
+                            <People name="Ishmeet Singh"
+                            description="Student at GTBIT | DM"
                             avatarSrc="./assets/avatar2.jpg"
                             mutual="62"/>
                             <People name="Rowan Roy"
-                            description="Fashion Influencer | Developer"
+                            description="Fashion Influencer "
                             avatarSrc="./assets/avatar9.png"
                             mutual="23"/>
                         </div>
@@ -126,19 +126,19 @@ function Network() {
                             <People name="Billie Ellish"
                             description="Singer | Bad Guy"
                             avatarSrc="./assets/avatar7.jpg"
-                            mutual="7088"/>
+                            mutual="7"/>
                             <People name="Alex Costa"
-                            description="Fashion Influcer | CEO Forte Series"
+                            description="Fashion Influcer | CEO Forte "
                             avatarSrc="./assets/avatar10.jpg"
                             mutual="45"/>
-                            <People name="Bebe Rexha"
+                            <People name="Muskan Jawa"
                             description="Singer"
                             avatarSrc="./assets/avatar8.jpg"
-                            mutual="4555"/>
+                            mutual="45"/>
                             <People name="Joey Tribbiani"
                             description="Star of Days of our lives | Actor"
                             avatarSrc="./assets/avatar11.jpg"
-                            mutual="1234"/>
+                            mutual="12"/>
                         </div>
                         </Fade>
                         </diV>

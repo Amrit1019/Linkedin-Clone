@@ -12,7 +12,7 @@ function MessageBox() {
         <div className="messagebox">
             <div className="messagebox__container">
                 <div className="messagebox__avatar">
-                    <Avatar src="./assets/Avatar.jpg"/>
+                    <Avatar src="./assets/me 1.jpg"/>
                     <p>Messaging</p>
                 </div>
                 <div className="messagebox__icons">

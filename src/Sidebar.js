@@ -9,32 +9,32 @@ function Sidebar() {
         <Fade left>
         <div className="sidebar">
             <img src="./assets/background.png" alt="background"/>
-            <Avatar src="./assets/Avatar.jpg" className="avatar1"/>
+            <Avatar src="./assets/me 1.jpg" className="avatar1"/>
             <div className="sidebar__info">
                 <Link to="/profile">
-                    <h1>Arpit Saxena</h1>
-                    <p>React Developer | SEO Executive | Content Writing Intern at WorldRef</p>
+                    <h1>Amritpreet Singh</h1>
+                    <p>Web Developer | SEO Executive | Content Writing Intern at Getinstartup</p>
                 </Link>
             </div>
             <div className="sidebar__stats">
                 <div className="sidebar__views">
                     <p className="profile">Who viewed your profile: </p>
-                    <p className="number">2659</p>
+                    <p className="number">1649</p>
                 </div>
                 <div className="sidebar__views">
-                    <p className="profile">Views of your video: </p>
-                    <p className="number">265</p>
+                    <p className="profile">Views of your post: </p>
+                    <p className="number">1197</p>
                 </div>
             </div>
             <div className="sidebar__tags">
                     <p>Recent</p>
                     <ul>
                         <li># linkedin</li>
-                        <li># react</li>
-                        <li># mern</li>
+                        <li># sparksfoundation</li>
+                        <li># gtbit</li>
                         <li># seo</li>
                         <li># digital marketing</li>
-                        <li># js</li>
+                        <li># basic of java fundamentals</li>
                     </ul>
             </div>
         </div>

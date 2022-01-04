@@ -13,7 +13,7 @@ function Posts() {
         <div className="posts">
             <div className="posts__nav">
                 <div className="posts__search">
-                    <Avatar src="./assets/zayn.jpg"/>
+                    <Avatar src="./assets/me 1.jpg"/>
                     <input type="text" 
                      className="post__input" placeholder="Start a post"/>
                 </div>
@@ -45,7 +45,7 @@ function Posts() {
                  time="1h"/>
 
                  <Post imgsrc="./assets/mern.png"
-                 name="Zayn Malik"
+                 name="Abhishek Sayal"
                  description="
                  MERN stands for MongoDB, Express, React, Node, after the four key technologies that make up the stack. MongoDB - document database. Express(.js) - Node.js web framework. React(.js) - a client-side JavaScript framework. Node(.js) - the premier JavaScript web server."
                  info="Mern Stack Developer"                
@@ -53,15 +53,15 @@ function Posts() {
                  time="1d"/>
 
                 <Post imgsrc="./assets/android.jpg"
-                 name="John Deep"
+                 name="Sanampreet"
                  description="Android Studio is the official integrated development environment for Google's Android operating system, built on JetBrains' IntelliJ IDEA software and designed specifically for Android development"
                  info="Android Developer"
                  avatarsrc="./assets/avatar1.jpg"
                  time="3d"/>
                  <Post imgsrc="./assets/background1.jpg"
-                 name="Lionel Messi"
+                 name="Yogesh Lohia"
                  description="Search engine optimization is the process of improving the quality and quantity of website traffic to a website or a web page from search engines. SEO targets unpaid traffic rather than direct traffic or paid traffic."
-                 info="GOAT | Developer"
+                 info="Enterprenuer| Developer"
                  avatarsrc="./assets/avatar3.jpg"
                  time="5d"/>
             </div>

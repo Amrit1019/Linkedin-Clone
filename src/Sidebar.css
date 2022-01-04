@@ -64,7 +64,7 @@
 }
 
 .sidebar__stats{
-    border-top: 2px solid lightgray;
+    border-top: 2px solid lightgrey;
     display: flex;
     width: 100%;
     flex-direction: column;

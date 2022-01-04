@@ -16,37 +16,38 @@ function Feeds() {
                 <div className="feeds__lists">
                     <div className="feeds__list">
                         <DiscFullIcon className="feeds__icon"/>
-                        <h3>Hard-Soft Skills Matter</h3>
+                        <h3>How to cope with the rejection</h3>
                     </div>
-                    <p>3d ago . 6054 readers</p>
+                    <p>3d ago . 6,054 readers</p>
                     <div className="feeds__list">
                         <DiscFullIcon className="feeds__icon"/>
-                        <h3>Mern Stack is taking over Mean Stack</h3>
+                        <h3>Average pay across job levels</h3>
                     </div>
-                    <p>4d ago . 653 readers</p>
+                    <p>4h ago . 2,653 readers</p>
                     <div className="feeds__list">
                         <DiscFullIcon className="feeds__icon"/>
-                        <h3>React is the most popular framework</h3>
+                        <h3>Counteroffers to retain top talent</h3>
                         
                     </div>
-                    <p>1d ago . 3005 readers</p>
+                    <p>1d ago . 3,005 readers</p>
                     <div className="feeds__list">
                         <DiscFullIcon className="feeds__icon"/>
                         <h3>SEO Tips and Tricks</h3>
                         
                     </div>
-                    <p>2d ago . 345 readers</p>
+                    <p>2d ago . 9,345 readers</p>
                     <div className="feeds__list">
                         <DiscFullIcon className="feeds__icon"/>
                         <h3>Digital Marketing v/s Traditional Marketing </h3>
                         
                     </div>
-                    <p>22h ago . 209 readers</p>
+                    <p>22h ago . 2,209 readers</p>
                     <div className="feeds__list">
                         <DiscFullIcon className="feeds__icon"/>
-                        <h3>Javascript is the most widely used Language</h3>
+                        <h3>Job Hunt demands persistence</h3>
                         
                     </div>
+                    <p>14h ago . 879 readers</p>
                 </div>
             </div>
         </div>
